@@ -1,5 +1,5 @@
-[
-  {
+{
+  "posts": [{
     "name": "asrvd.me",
     "description": "personal site made using the t3 stack",
     "language": "TypeScript",
@@ -59,4 +59,4 @@
     "forks": "9",
     "languageColor": "#41b883"
   }
-]
+]}
