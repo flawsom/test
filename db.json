@@ -58,5 +58,15 @@
     "stars": "20",
     "forks": "9",
     "languageColor": "#41b883"
+  },
+  {
+    "name": "seventh try",
+    "description": "a very dark, minimal, powerful and fully customizable startpage made using vue.",
+    "language": "Vue",
+    "owner": "asrvd",
+    "link": "https://github.com/asrvd/onigiri",
+    "stars": "20",
+    "forks": "9",
+    "languageColor": "#41b883"
   }
 ]}
